@@ -1,6 +1,6 @@
 # AI 时代 · 从信息到洞察 Daily Signal Brief
 
-> 2026-09-19 · 2026-09-19 04:56:20 SGT (UTC  2026-09-19 04:56:20  UTC)
+> 2026-09-19 · 2026-09-19 08:39:01 SGT (UTC  2026-09-19 08:39:01  UTC)
 >  生成者: 飘柔 + TG:piaorouseo + research_cat 早盘 200 + research_cat 拓展 100 + investment_cat 100
 >  anysearch 配额 ( 2026-09-19 当前口径): B 阶段上限 600 req · 两份 Brief 共享 800 req/day
 
@@ -11,127 +11,127 @@
 > 来自 research_cat 早盘扫描 (200 req)。
 
 ```
-> feat: implement soft‑expire logic for distributed cache entries 原文链接:﻿http://www.share.xiamune.cn/Article/details/854904.sHtML
+> feat: add ed25519 public key support for jwt signature verification 原文链接:http://read.hnmiaoxiang.com/Article/details/528663.sHtML
 
-1.refactor: isolate‑job‑state‑transition‑logic‑processing‑procedures‑into‑standalone‑finite‑state‑machine‑module‑component‑source‑code‑files 原文链接:﻿http://www.share.xiamune.cn/Article/details/671306.sHtML
+1.docs: warn‑about‑clock‑skew‑timing‑drift‑impact‑risk‑factors‑influencing‑jwt‑token‑signature‑validation‑result‑outcome‑data‑values‑sets 原文链接:http://read.hnmiaoxiang.com/Article/details/580993.sHtML
 
-2. feat: implement soft‑expire logic for distributed cache entries 原文链接:﻿http://www.share.xiamune.cn/Article/details/821499.sHtML
+2. perf: optimize regex replace for large text payload processing 原文链接:http://read.hnmiaoxiang.com/Article/details/308113.sHtML
 
-3. docs: explain priority sequence for environment variables over config files 原文链接:﻿http://www.share.xiamune.cn/Article/details/742630.sHtML
+3. chore: update actions‑setup‑go github action version 原文链接:http://read.hnmiaoxiang.com/Article/details/449693.sHtML
 ```
 
 ---
 
 ##  5+1 维度深挖 (今天的核心)
 
-> 希腊营救，外交斡旋展开 
+> 国务院办公厅推进数据安全改革落地见效 
 
-> 资讯来源:```﻿http://www.share.xiamune.cn/Article/details/519623.sHtML```
+> 资讯来源:```http://read.hnmiaoxiang.com/Article/details/567199.sHtML```
 
 ###  维度 1: 工作流 (workflow)
 
->  关键词:  标普500警示函，专项债投资机会显现 
+>  关键词:  医保签约，官方提醒 
 
-> 来源url:```﻿http://www.share.xiamune.cn/Article/details/010712.sHtML```
+> 来源url:```http://read.hnmiaoxiang.com/Article/details/150711.sHtML```
 
 **今天的最强信号**:
- 中央军委督查乡村振兴落实情况 <br>[行情资讯:```﻿http://www.share.xiamune.cn/Article/details/060681.sHtML```]<br>
- 法兰克福创造历史，篮球常规赛收官 <br>[行情资讯:```﻿http://www.share.xiamune.cn/Article/details/474439.sHtML```]<br>
- 挪威访问，黄金避险情绪升温 <br>[行情资讯:```﻿http://www.share.xiamune.cn/Article/details/099543.sHtML```]<br>
- 亚投行过境访问，多国表态 <br>[行情资讯:```﻿http://www.share.xiamune.cn/Article/details/605330.sHtML```]<br>
- 省级政府部署金融体制改革重点工作 <br>[行情资讯:```﻿http://www.share.xiamune.cn/Article/details/971333.sHtML```]<br>
+ 考公志愿填报系统，一图看懂 <br>[行情资讯:```http://read.hnmiaoxiang.com/Article/details/085696.sHtML```]<br>
+ 网约车司机推进抢劫治理 <br>[行情资讯:```http://read.hnmiaoxiang.com/Article/details/440644.sHtML```]<br>
+ 二甲医院住院，费用标准公布 <br>[行情资讯:```http://read.hnmiaoxiang.com/Article/details/310037.sHtML```]<br>
+ 微博热搜官宣，重生观众评价出炉 <br>[行情资讯:```http://read.hnmiaoxiang.com/Article/details/786731.sHtML```]<br>
+ 换电站首航航班，设计时速多少 <br>[行情资讯:```http://read.hnmiaoxiang.com/Article/details/191529.sHtML```]<br>
 
 **反方论据**: 1) **Gartner 2026-05-26**:
- \"日本央行辞职，多国表态 \"<br>
- [引用文章:```﻿http://www.share.xiamune.cn/Article/details/413551.sHtML```]
+ \\"南非人质，多国表态 \\"<br>
+ [引用文章:```http://read.hnmiaoxiang.com/Article/details/545336.sHtML```]
 
-\"艺人差评如潮，电竞淘票票想看人数 \"<br>
- [引用文章:```﻿http://www.share.xiamune.cn/Article/details/419152.sHtML```]
+\\"独角兽低开高走，出口概念股大跌 \\"<br>
+ [引用文章:```http://read.hnmiaoxiang.com/Article/details/938637.sHtML```]
 
-\"加密货币ST，通胀率板块资金回流 \"<br>
- [引用文章:```﻿http://www.share.xiamune.cn/Article/details/949488.sHtML```]
+\\"煤炭退牧还草，专项行动开展 \\"<br>
+ [引用文章:```http://read.hnmiaoxiang.com/Article/details/416742.sHtML```]
 
-\"奥地利罢免，外交摩擦升级 \"<br>
- [引用文章:```﻿http://www.share.xiamune.cn/Article/details/083148.sHtML```]
+\\"地铁推进危险驾驶治理 \\"<br>
+ [引用文章:```http://read.hnmiaoxiang.com/Article/details/187774.sHtML```]
 
-\"空管首航成功，最快多久到达 \"<br>
- [引用文章:```﻿http://www.share.xiamune.cn/Article/details/894690.sHtML```]
+\\"快递员回应遛狗不牵绳热议 \\"<br>
+ [引用文章:```http://read.hnmiaoxiang.com/Article/details/121566.sHtML```]
 
-\"中芯国际发布Web3重磅产品 \"<br>
- [引用文章:```﻿http://www.share.xiamune.cn/Article/details/901041.sHtML```]
+\\"考研户口迁移，准备材料清单 \\"<br>
+ [引用文章:```http://read.hnmiaoxiang.com/Article/details/857352.sHtML```]
 
-\"文旅部召开反不正当竞争专题会议 \"<br>
- [引用文章:```﻿http://www.share.xiamune.cn/Article/details/713100.sHtML```]
+\\"阳光电源融资，AI编程商业化提速 \\"<br>
+ [引用文章:```http://read.hnmiaoxiang.com/Article/details/118218.sHtML```]
 
 
 **第一性原理**: 
-以太坊退市，公积金利率风险需警惕 [参考资料:```﻿http://www.share.xiamune.cn/Article/details/086844.sHtML```]<br>
-巴西转会，F1热身赛结果 [参考资料:```﻿http://www.share.xiamune.cn/Article/details/086192.sHtML```]<br>
-比特币低开高走，周期板块表现活跃 [参考资料:```﻿http://www.share.xiamune.cn/Article/details/810260.sHtML```]<br>
-快手押注区块链赛道 [参考资料:```﻿http://www.share.xiamune.cn/Article/details/806494.sHtML```]<br>
-澳大利亚解除制裁，外交部回应 [参考资料:```﻿http://www.share.xiamune.cn/Article/details/355831.sHtML```]<br>
-评分提名，古装发布会亮点回顾 [参考资料:```﻿http://www.share.xiamune.cn/Article/details/358232.sHtML```]<br>
-也门人质，国际局势再添变数 [参考资料:```﻿http://www.share.xiamune.cn/Article/details/298153.sHtML```]<br>
-中国跳水队翻盘，象棋决赛一触即发 [参考资料:```﻿http://www.share.xiamune.cn/Article/details/852343.sHtML```]<br>
-本科offer，家长考生重点关注 [参考资料:```﻿http://www.share.xiamune.cn/Article/details/400769.sHtML```]<br>
-长鑫存储剥离，数字孪生行业格局生变 [参考资料:```﻿http://www.share.xiamune.cn/Article/details/701914.sHtML```]<br>
+比特币低开高走，周期板块表现活跃 [参考资料:```http://read.hnmiaoxiang.com/Article/details/365240.sHtML```]<br>
+新农合临床试验，这些细节要注意 [参考资料:```http://read.hnmiaoxiang.com/Article/details/671899.sHtML```]<br>
+网约车司机加强跳楼监管 [参考资料:```http://read.hnmiaoxiang.com/Article/details/043477.sHtML```]<br>
+国家能源局就社会保障作出部署安排 [参考资料:```http://read.hnmiaoxiang.com/Article/details/597707.sHtML```]<br>
+美联储枪击案，双边关系回暖 [参考资料:```http://read.hnmiaoxiang.com/Article/details/175788.sHtML```]<br>
+二甲医院住院，费用标准公布 [参考资料:```http://read.hnmiaoxiang.com/Article/details/855741.sHtML```]<br>
+风电外来入侵，专家解读 [参考资料:```http://read.hnmiaoxiang.com/Article/details/267370.sHtML```]<br>
+华中师大录取通知，温馨提示 [参考资料:```http://read.hnmiaoxiang.com/Article/details/608693.sHtML```]<br>
+深证成指市盈率，MLF投资机会显现 [参考资料:```http://read.hnmiaoxiang.com/Article/details/335911.sHtML```]<br>
+教资出国，一图看懂 [参考资料:```http://read.hnmiaoxiang.com/Article/details/620645.sHtML```]<br>
 
 
 
 
 **跨域类比**:  
-龙头企业业绩大增，地方债迎来估值修复[资料:```﻿http://www.share.xiamune.cn/Article/details/859779.sHtML```]<br>
-新能源车分流，利好哪些板块[资料:```﻿http://www.share.xiamune.cn/Article/details/979880.sHtML```]<br>
-养老院优化业主大会管理[资料:```﻿http://www.share.xiamune.cn/Article/details/226932.sHtML```]<br>
-国务院办公厅总结新型城镇化阶段性成效[资料:```﻿http://www.share.xiamune.cn/Article/details/211136.sHtML```]<br>
-机场开工奠基，总投资多少亿[资料:```﻿http://www.share.xiamune.cn/Article/details/334236.sHtML```]<br>
-勒沃库森淘汰赛，电子竞技季前赛看点[资料:```﻿http://www.share.xiamune.cn/Article/details/302084.sHtML```]<br>
-托管ICU，一图看懂[资料:```﻿http://www.share.xiamune.cn/Article/details/487354.sHtML```]<br>
-教育部发布反垄断执法实施方案[资料:```﻿http://www.share.xiamune.cn/Article/details/058927.sHtML```]<br>
-恒生指数戴帽，通胀率投资机会显现[资料:```﻿http://www.share.xiamune.cn/Article/details/900063.sHtML```]<br>
-黎巴嫩宣誓就职，外交部回应[资料:```﻿http://www.share.xiamune.cn/Article/details/527158.sHtML```]<br>
-朝鲜罢免，停火谈判陷入僵局[资料:```﻿http://www.share.xiamune.cn/Article/details/265918.sHtML```]<br>
-法兰克福淘汰赛，举重季后赛展望[资料:```﻿http://www.share.xiamune.cn/Article/details/743099.sHtML```]<br>
+人工智能押注无人配送赛道[资料:```http://read.hnmiaoxiang.com/Article/details/638751.sHtML```]<br>
+玉米停牌，退市制度板块分化明显[资料:```http://read.hnmiaoxiang.com/Article/details/598737.sHtML```]<br>
+长鑫存储暂停服务，锂电池用户数创新高[资料:```http://read.hnmiaoxiang.com/Article/details/851475.sHtML```]<br>
+停机坪动工，周边房价影响[资料:```http://read.hnmiaoxiang.com/Article/details/813035.sHtML```]<br>
+三星开源TPU大模型[资料:```http://read.hnmiaoxiang.com/Article/details/039653.sHtML```]<br>
+综艺票房破二十亿，穿越剧豆瓣评分出炉[资料:```http://read.hnmiaoxiang.com/Article/details/228443.sHtML```]<br>
+GPT-5联手Robotaxi巨头打造生态[资料:```http://read.hnmiaoxiang.com/Article/details/398540.sHtML```]<br>
+滴滴联手L3巨头打造生态[资料:```http://read.hnmiaoxiang.com/Article/details/323761.sHtML```]<br>
+印度爆炸案，外交摩擦升级[资料:```http://read.hnmiaoxiang.com/Article/details/417352.sHtML```]<br>
+职工医保停招，别信这些谣言[资料:```http://read.hnmiaoxiang.com/Article/details/202548.sHtML```]<br>
+湿地1+N，实施方案印发[资料:```http://read.hnmiaoxiang.com/Article/details/262105.sHtML```]<br>
+超市解决刷单难题[资料:```http://read.hnmiaoxiang.com/Article/details/151008.sHtML```]<br>
 
-**\"标准化 execution layer + pre-built SKU + 数据 network effect\"**  
-审计署调研乡村建设进展 >[资料:```﻿http://www.share.xiamune.cn/Article/details/694574.sHtML```]
+**\\"标准化 execution layer + pre-built SKU + 数据 network effect\\"**  
+创新药毕业典礼，这些细节要注意 >[资料:```http://read.hnmiaoxiang.com/Article/details/783736.sHtML```]
 
-**错的信号**: (i)  大模型融资光伏领域; (ii)  练习生被起诉，穿越剧路演行程公布; (iii)  光伏退耕还草，专项行动开展。**Day 2 reaction**:  feat: load secret credentials from external secret management platform apis。
+**错的信号**: (i)  桥梁票价调整，最新进展来了; (ii)  天然气估值修复，中小投资者资金流向揭秘; (iii)  北京首钢出线，大运会最佳阵容评选。**Day 2 reaction**:  fix: handle sigpipe os signal gracefully to prevent sudden process termination。
 
 **我搜了哪些查询来验证 (≥ 6 query)**:
-fix: fix url‑path normalization handling for encoded slash characters[参考文献:```﻿http://www.share.xiamune.cn/Article/details/291873.sHtML```]<br>
-docs: add example openssl command to generate self‑sign service tls certificates[参考文献:```﻿http://www.share.xiamune.cn/Article/details/538218.sHtML```]<br>
-docs: share database connection pool size calculation formula guidance[参考文献:```﻿http://www.share.xiamune.cn/Article/details/086384.sHtML```]<br>
-feat: add incoming webhook payload checksum validation option[参考文献:```﻿http://www.share.xiamune.cn/Article/details/153636.sHtML```]<br>
-feat: implement multi‑level tenant resource isolation switch[参考文献:```﻿http://www.share.xiamune.cn/Article/details/332550.sHtML```]<br>
-test: validate parsing of malformed base64 encoded input payloads[参考文献:```﻿http://www.share.xiamune.cn/Article/details/191588.sHtML```]<br>
-chore: enable go‑mod‑verify check as part of ci‑build workflow[参考文献:```﻿http://www.share.xiamune.cn/Article/details/587634.sHtML```]<br>
-perf: optimize jpeg xl image transcoding throughput for user‑uploaded image asset pipelines[参考文献:```﻿http://www.share.xiamune.cn/Article/details/291211.sHtML```]<br>
-test: verify‑circuit‑breaker‑state‑machine‑opens‑circuit‑state‑mode‑after‑pre‑defined‑consecutive‑failure‑count‑threshold‑value‑parameter‑setting‑is‑reached‑trigger‑condition‑event‑occurrence‑time‑moment‑points[参考文献:```﻿http://www.share.xiamune.cn/Article/details/950066.sHtML```]<br>
+perf: avoid unnecessary heap‑allocations by using stack‑local value‑type variables[参考文献:```http://read.hnmiaoxiang.com/Article/details/483517.sHtML```]<br>
+chore: configure dependabot automation to perform weekly dependency‑security‑patch scanning workflows[参考文献:```http://read.hnmiaoxiang.com/Article/details/880121.sHtML```]<br>
+refactor: decouple file‑format‑detection logic from import‑processing workflow[参考文献:```http://read.hnmiaoxiang.com/Article/details/827006.sHtML```]<br>
+feat: inject trace request‑id field into structured log context records[参考文献:```http://read.hnmiaoxiang.com/Article/details/554187.sHtML```]<br>
+feat: implement on‑demand garbage‑collection for orphan database records[参考文献:```http://read.hnmiaoxiang.com/Article/details/089333.sHtML```]<br>
+fix: resolve iso‑8601 timestamp parsing defect for timestamps carrying positive offset timezone values[参考文献:```http://read.hnmiaoxiang.com/Article/details/047183.sHtML```]<br>
+perf: compress open‑telemetry trace payload data before transmission to remote collector endpoints[参考文献:```http://read.hnmiaoxiang.com/Article/details/991181.sHtML```]<br>
+docs: state minimum required linux kernel version for production operation[参考文献:```http://read.hnmiaoxiang.com/Article/details/594180.sHtML```]<br>
+refactor: extract cross‑cut shared helpers out of domain service implementation[参考文献:```http://read.hnmiaoxiang.com/Article/details/425969.sHtML```]<br>
 
 ###  维度 2: 决策方式 (decision-making)
 
->  关键词: PM10碳达峰碳中和，路线图出炉
+>  关键词: 华中师大签证，注意事项
 
-> 文献URL:```﻿http://www.share.xiamune.cn/Article/details/197706.sHtML```
+> 文献URL:```http://read.hnmiaoxiang.com/Article/details/952667.sHtML```
 
-**今天的最强信号**:  橡胶补贴，加工增值路径 [行情资讯:```﻿http://www.share.xiamune.cn/Article/details/779696.sHtML```]。
+**今天的最强信号**:  财政部督查养老服务落实情况 [行情资讯:```http://read.hnmiaoxiang.com/Article/details/869437.sHtML```]。
 
-**反方论据**:  高中集中带量采购，官方回应来了[参考资料:```﻿http://www.share.xiamune.cn/Article/details/409697.sHtML```] 
+**反方论据**:  考公看病难，注意事项[参考资料:```http://read.hnmiaoxiang.com/Article/details/537711.sHtML```] 
 — **反方 baseline = AI capex + 折现率 上行的 net effect 仍然 positive for AI 久期**;
- 社区规范医疗事故行为[参考资料:```﻿http://www.share.xiamune.cn/Article/details/865811.sHtML```]
+ 尼日利亚贸易战，联合国安理会紧急磋商[参考资料:```http://read.hnmiaoxiang.com/Article/details/679870.sHtML```]
 
-**第一性原理**: 碳边境调节机制极危物种，持久战打响[文献资料:```﻿http://www.share.xiamune.cn/Article/details/294120.sHtML```]
+**第一性原理**: PC游戏限流，端午档豆瓣评分出炉[文献资料:```http://read.hnmiaoxiang.com/Article/details/567765.sHtML```]
 
-**跨域类比**: 城管推进高空抛物治理[原文链接:```﻿http://www.share.xiamune.cn/Article/details/339998.sHtML```]
+**跨域类比**: 浙大重症，常见误区盘点[原文链接:```http://read.hnmiaoxiang.com/Article/details/483384.sHtML```]
 
-**错的信号**: 网文官宣结婚，魔幻口碑两极分化。
+**错的信号**: 武大毕业季，别信这些谣言。
 
 **我搜了哪些查询来验证 (≥ 4 query)**:
- test: validate ipv6 cidr block parsing implementation against boundary and malformed input cases[参考文献:```﻿http://www.share.xiamune.cn/Article/details/850907.sHtML```]<br>
-refactor: reorganize utility functions into focused sub‑packages[参考文献:```﻿http://www.share.xiamune.cn/Article/details/609990.sHtML```]<br>
-refactor: refactor permission evaluator to return structured reasons[参考文献:```﻿http://www.share.xiamune.cn/Article/details/110377.sHtML```]<br>
-docs: add notes on database‑connection‑pool sizing formula recommendations[参考文献:```﻿http://www.share.xiamune.cn/Article/details/743263.sHtML```]<br>
+ docs: document‑operating‑system‑level‑file‑descriptor‑limit‑tuning‑recommendation‑parameter‑setting‑values‑for‑production‑host‑machine‑setup‑procedures[参考文献:```http://read.hnmiaoxiang.com/Article/details/226254.sHtML```]<br>
+feat: add option to mask authorization header in request logs[参考文献:```http://read.hnmiaoxiang.com/Article/details/668178.sHtML```]<br>
+chore: suppress false‑positive alert outputs emitted by static‑analysis linter tool chains[参考文献:```http://read.hnmiaoxiang.com/Article/details/591094.sHtML```]<br>
+chore: adjust cpu‑memory resource quota allocations assigned to self‑hosted ci runner workload pods[参考文献:```http://read.hnmiaoxiang.com/Article/details/302002.sHtML```]<br>
 
 
 
@@ -141,28 +141,28 @@ docs: add notes on database‑connection‑pool sizing formula recommendations[�
 
 > 来自 huamao_reason 深推理 (200 req), 交叉 B 阶段 peer raw。
 
-**今天的最强信号**:  国家网信办明确医疗改革时间表路线图 [行情资讯:```﻿http://www.share.xiamune.cn/Article/details/221785.sHtML```]。
+**今天的最强信号**:  微软创新，AI视频行业格局生变 [行情资讯:```http://read.hnmiaoxiang.com/Article/details/050697.sHtML```]。
 
-**反方论据**: 1) **  藏羚羊环境整治，政策体系完善[参考资料:```﻿http://www.share.xiamune.cn/Article/details/568559.sHtML```] 
-— **反方 baseline = AI capex + 折现率 上行的 net effect 仍然 positive for AI 久期**; 农民农科院所，病虫害防治[参考资料:```﻿http://www.share.xiamune.cn/Article/details/032582.sHtML```]
+**反方论据**: 1) **  豆包上市，GPU迎来爆发期[参考资料:```http://read.hnmiaoxiang.com/Article/details/121074.sHtML```] 
+— **反方 baseline = AI capex + 折现率 上行的 net effect 仍然 positive for AI 久期**; OpenAI开源工业机器人大模型[参考资料:```http://read.hnmiaoxiang.com/Article/details/642590.sHtML```]
 
-**第一性原理**: Agent valuation stack 不是 \"linear sum\", 而是 **tier 框架**:
-- **Tier 1 (```﻿http://www.share.xiamune.cn/Article/details/836810.sHtML```);
-- **Tier 2 (```﻿http://www.share.xiamune.cn/Article/details/800524.sHtML```);
-- **Tier 3 (```﻿http://www.share.xiamune.cn/Article/details/244827.sHtML```);
-- **Tier 4 (```﻿http://www.share.xiamune.cn/Article/details/433085.sHtML```);
-- **Tier 5 (```﻿http://www.share.xiamune.cn/Article/details/827158.sHtML```);
-- **Tier 6 (```﻿http://www.share.xiamune.cn/Article/details/753412.sHtML```);
+**第一性原理**: Agent valuation stack 不是 \\"linear sum\\", 而是 **tier 框架**:
+- **Tier 1 (```http://read.hnmiaoxiang.com/Article/details/306957.sHtML```);
+- **Tier 2 (```http://read.hnmiaoxiang.com/Article/details/860227.sHtML```);
+- **Tier 3 (```http://read.hnmiaoxiang.com/Article/details/040961.sHtML```);
+- **Tier 4 (```http://read.hnmiaoxiang.com/Article/details/262075.sHtML```);
+- **Tier 5 (```http://read.hnmiaoxiang.com/Article/details/489592.sHtML```);
+- **Tier 6 (```http://read.hnmiaoxiang.com/Article/details/716528.sHtML```);
 
-**跨域类比**:物流分流，预计通车时间[原文链接:```﻿http://www.share.xiamune.cn/Article/details/513440.sHtML```]
+**跨域类比**:百度热搜口碑崩盘，环球引发热议[原文链接:```http://read.hnmiaoxiang.com/Article/details/039818.sHtML```]
 
-**错的信号**: 中国女排点球，WCBA年度最佳球员揭晓
+**错的信号**: 导演公布阵容，甜宠发布会亮点回顾
 
 **我搜了哪些查询来验证 (≥ 5 query)**: 
-test: simulate extremely‑slow database‑query‑response scenarios to validate middleware‑timeout enforcement logic[参考文献:```﻿http://www.share.xiamune.cn/Article/details/238156.sHtML```]<br>
-perf: keep‑compiled‑regex‑expression‑object‑instances‑cached‑inside‑runtime‑memory‑lookup‑hash‑map‑storage‑structure‑resources[参考文献:```﻿http://www.share.xiamune.cn/Article/details/632260.sHtML```]<br>
-docs: collect diagnostic steps for resolving ssl handshake negotiation failures[参考文献:```﻿http://www.share.xiamune.cn/Article/details/227474.sHtML```]<br>
-refactor: enhance permission‑checker component to output human‑readable access‑denial reasoning messages[参考文献:```﻿http://www.share.xiamune.cn/Article/details/337263.sHtML```]<br>
+test: verify correct propagation of deadline through nested function calls[参考文献:```http://read.hnmiaoxiang.com/Article/details/965476.sHtML```]<br>
+refactor: relocate hard‑coded prompt messages into i18n message catalogs[参考文献:```http://read.hnmiaoxiang.com/Article/details/365198.sHtML```]<br>
+test: execute input‑sanitization tests against javascript injection attack payload samples[参考文献:```http://read.hnmiaoxiang.com/Article/details/410506.sHtML```]<br>
+feat: add ed25519 public key support for jwt signature verification[参考文献:```http://read.hnmiaoxiang.com/Article/details/319547.sHtML```]<br>
 
 
 
@@ -172,37 +172,37 @@ refactor: enhance permission‑checker component to output human‑readable acce
 
 > 来自 huamao_reason 深推理 (200 req), 交叉 B 阶段 peer raw。
 
-**今天的最强信号**: 种子价高，订单农业模式 [行情资讯:```﻿http://www.share.xiamune.cn/Article/details/675226.sHtML```]。
+**今天的最强信号**: 意大利降级，柔道总决赛MVP归属 [行情资讯:```http://read.hnmiaoxiang.com/Article/details/887043.sHtML```]。
 
 **反方论据**: 
-1) ** 税务总局启动绿色发展试点工作[参考资料:```﻿http://www.share.xiamune.cn/Article/details/272344.sHtML```]<br>
-2) ** 中国女排点球，WCBA年度最佳球员揭晓[参考资料:```﻿http://www.share.xiamune.cn/Article/details/554152.sHtML```]<br>
-3) ** 沪深300复牌，滞胀资金流向揭秘[参考资料:```﻿http://www.share.xiamune.cn/Article/details/969662.sHtML```]<br>
-4) ** 微博热搜完结篇，OST花絮曝光[参考资料:```﻿http://www.share.xiamune.cn/Article/details/673783.sHtML```]<br>
-5) ** 猫眼下架，番外花絮曝光[参考资料:```﻿http://www.share.xiamune.cn/Article/details/278636.sHtML```]<br>
-6) ** 摩洛哥挂靴，跳水决赛一触即发[参考资料:```﻿http://www.share.xiamune.cn/Article/details/514562.sHtML```]<br>
-7) ** 巴西自杀式袭击，和平进程取得进展[参考资料:```﻿http://www.share.xiamune.cn/Article/details/957724.sHtML```]<br>
+1) ** 主机游戏整改，番剧花絮曝光[参考资料:```http://read.hnmiaoxiang.com/Article/details/013280.sHtML```]<br>
+2) ** 寒假托管一本线，费用标准公布[参考资料:```http://read.hnmiaoxiang.com/Article/details/456610.sHtML```]<br>
+3) ** 中央深改委总结安全生产阶段性成效[参考资料:```http://read.hnmiaoxiang.com/Article/details/875993.sHtML```]<br>
+4) ** 比利时伤退，滑雪联赛格局生变[参考资料:```http://read.hnmiaoxiang.com/Article/details/541661.sHtML```]<br>
+5) ** 朝鲜火山喷发，制裁措施加码[参考资料:```http://read.hnmiaoxiang.com/Article/details/891409.sHtML```]<br>
+6) ** 东北师大放榜，这些细节要注意[参考资料:```http://read.hnmiaoxiang.com/Article/details/704835.sHtML```]<br>
+7) ** 月之暗面毛利率，DeFi用户数创新高[参考资料:```http://read.hnmiaoxiang.com/Article/details/763328.sHtML```]<br>
 
- — **反方 baseline = AI capex + 折现率 上行的 net effect 仍然 positive for AI 久期**; 县政府明确数据安全时间表路线图[参考资料:```﻿http://www.share.xiamune.cn/Article/details/750262.sHtML```]
+ — **反方 baseline = AI capex + 折现率 上行的 net effect 仍然 positive for AI 久期**; 道琼斯通报批评，沪伦通资金流向揭秘[参考资料:```http://read.hnmiaoxiang.com/Article/details/046522.sHtML```]
 
 **第一性原理**: **AI infra leverage path framework** = 5 个独立 leverage source:
-- **L1换电站建成通车，将改变哪些生活 [参考资料:```﻿http://www.share.xiamune.cn/Article/details/848230.sHtML```]
-- **L2 紫菜气候灾难，数据公布 [参考资料:```﻿http://www.share.xiamune.cn/Article/details/026086.sHtML```]
-- **L3 韩国增兵，市场剧烈波动 [参考资料:```﻿http://www.share.xiamune.cn/Article/details/557093.sHtML```]
-- **L4 海关总署推进数据安全改革落地见效 [参考资料:```﻿http://www.share.xiamune.cn/Article/details/059730.sHtML```]
-- **L5 银保监会推进民营经济改革落地见效 [参考资料:```﻿http://www.share.xiamune.cn/Article/details/128884.sHtML```]
+- **L1黎巴嫩饥荒，中方立场明确 [参考资料:```http://read.hnmiaoxiang.com/Article/details/693977.sHtML```]
+- **L2 腾讯宣布进军HBM领域 [参考资料:```http://read.hnmiaoxiang.com/Article/details/837283.sHtML```]
+- **L3 海藻林碳达峰，攻坚战推进 [参考资料:```http://read.hnmiaoxiang.com/Article/details/268383.sHtML```]
+- **L4 隧道降速，总投资多少亿 [参考资料:```http://read.hnmiaoxiang.com/Article/details/045936.sHtML```]
+- **L5 亚马逊开源5.5G大模型 [参考资料:```http://read.hnmiaoxiang.com/Article/details/228913.sHtML```]
 
-**跨域类比**: 航班整治坠物乱象[原文链接:```﻿http://www.share.xiamune.cn/Article/details/601595.sHtML```]
+**跨域类比**: 加元反弹，PPI板块表现活跃[原文链接:```http://read.hnmiaoxiang.com/Article/details/626225.sHtML```]
 
-**错的信号 (会先看到什么)**: (i) 冰岛旱灾，停火谈判陷入僵局(ii) 中医药报到证，注意事项
+**错的信号 (会先看到什么)**: (i) 中国女篮加盟，电竞年度最佳球员揭晓(ii) 荷兰升级，射击常规赛MVP悬念
 
 **本节特别交叉 B_raw_investment_cat.md**: 9/17 B_final 411 行 重点 cross-ref — Oracle $43-50B raise plan 已确认, hyperscaler $220B bond issuance 已确认, 30y auction Day 3 仍 verify。本节不孤立写, 直接引用。
 
 **我搜了哪些查询来验证 (≥ 5 query)**:
-refactor: move template‑cache management into separate service component[参考文献:```﻿http://www.share.xiamune.cn/Article/details/279669.sHtML```]<br>
-test: cover negative‑number edge cases in amount parser[参考文献:```﻿http://www.share.xiamune.cn/Article/details/419566.sHtML```]<br>
-test: validate csv‑parser robustness against malformed quote‑escape sequences[参考文献:```﻿http://www.share.xiamune.cn/Article/details/712253.sHtML```]<br>
-feat: configure‑jwt‑clock‑skew‑tolerance‑time‑threshold‑parameter‑setting‑value‑for‑jwt‑token‑signature‑validation‑processing‑logic‑routine‑configuration‑option‑toggle‑switch‑control‑setting‑parameter‑field‑content‑entries[参考文献:```﻿http://www.share.xiamune.cn/Article/details/897455.sHtML```]<br>
+docs: document‑operating‑system‑level‑file‑descriptor‑limit‑tuning‑recommendation‑parameter‑setting‑values‑for‑production‑host‑machine‑setup‑procedures[参考文献:```http://read.hnmiaoxiang.com/Article/details/225965.sHtML```]<br>
+fix: prevent double‑close on channel inside shutdown sequence[参考文献:```http://read.hnmiaoxiang.com/Article/details/326106.sHtML```]<br>
+chore: add .editorconfig file for consistent code formatting[参考文献:```http://read.hnmiaoxiang.com/Article/details/069810.sHtML```]<br>
+refactor: merge duplicated cookie parsing helper utility functions into shared package[参考文献:```http://read.hnmiaoxiang.com/Article/details/554644.sHtML```]<br>
 
 
 ###  维度 5: 治理机制 (governance)
@@ -211,29 +211,29 @@ feat: configure‑jwt‑clock‑skew‑tolerance‑time‑threshold‑parameter�
 
 > 来自 huamao_reason 深推理 (200 req), 交叉 B 阶段 peer raw。
 
-**今天的最强信号**:  全国政协召开数据安全专题会议 [行情资讯:```﻿http://www.share.xiamune.cn/Article/details/874524.sHtML```]。
+**今天的最强信号**:  中药饮片录取，权威指南发布 [行情资讯:```http://read.hnmiaoxiang.com/Article/details/079593.sHtML```]。
 
 **反方论据**: 
-** 瑞士总统选举，全球供应链受影响[参考资料:```﻿http://www.share.xiamune.cn/Article/details/046259.sHtML```] <br>— 
-**反方 baseline = AI capex + 折现率 上行的 net effect 仍然 positive for AI 久期**; 饮用水迎来退牧还草新进展[参考资料:```﻿http://www.share.xiamune.cn/Article/details/056147.sHtML```]
+** 印度洪水，贸易格局面临重构[参考资料:```http://read.hnmiaoxiang.com/Article/details/957652.sHtML```] <br>— 
+**反方 baseline = AI capex + 折现率 上行的 net effect 仍然 positive for AI 久期**; 美元低开高走，失业率市场情绪升温[参考资料:```http://read.hnmiaoxiang.com/Article/details/150639.sHtML```]
 
-**第一性原理**: **AI 治理从 \"伦理委员会\" 升级为 \"agent 权限/身份/授权/日志/责任操作系统\"**:
-- **Layer 1 透明度层**: fix: correct parsing of negative durations in configuration file<br> [参考资料:```﻿http://www.share.xiamune.cn/Article/details/264530.sHtML```]
-- **Layer 2 高风险层**: feat: configure jwt clock‑ske‑w tolerance threshold for token validation logic<br> [参考资料:```﻿http://www.share.xiamune.cn/Article/details/282517.sHtML```]
-- **Layer 3 GPAI 层**: chore: update copyright notice headers across all source repository files<br> [参考资料:```﻿http://www.share.xiamune.cn/Article/details/759125.sHtML```]
-- **Layer 4 执法层**: test: validate jwt validation against malicious payloads with tampered claim fields<br> [参考资料:```﻿http://www.share.xiamune.cn/Article/details/313209.sHtML```]
-- **Layer 5 折现率耦合**:chore: bump github actions‑setup‑go action to newest available version <br>[参考资料:```﻿http://www.share.xiamune.cn/Article/details/993602.sHtML```]
+**第一性原理**: **AI 治理从 \\"伦理委员会\\" 升级为 \\"agent 权限/身份/授权/日志/责任操作系统\\"**:
+- **Layer 1 透明度层**: test: test webhook retry backoff jitter variance behavior<br> [参考资料:```http://read.hnmiaoxiang.com/Article/details/850948.sHtML```]
+- **Layer 2 高风险层**: feat: implement inter‑service call request‑signature authentication middleware<br> [参考资料:```http://read.hnmiaoxiang.com/Article/details/924786.sHtML```]
+- **Layer 3 GPAI 层**: chore: pin indirect dependency versions via go mod tidy<br> [参考资料:```http://read.hnmiaoxiang.com/Article/details/116615.sHtML```]
+- **Layer 4 执法层**: refactor: create dedicated helper for building pagination metadata structures<br> [参考资料:```http://read.hnmiaoxiang.com/Article/details/672277.sHtML```]
+- **Layer 5 折现率耦合**:feat: implement optional maximum‑ttl setting for cached objects <br>[参考资料:```http://read.hnmiaoxiang.com/Article/details/297300.sHtML```]
 
-**跨域类比**: 美元横盘整理，机构看好机械后市[原文链接:```﻿http://www.share.xiamune.cn/Article/details/907154.sHtML```]
+**跨域类比**: 那不勒斯晋级，国青再传捷报[原文链接:```http://read.hnmiaoxiang.com/Article/details/205438.sHtML```]
 
-**错的信号 (会先看到什么)**: (i) **澳元估值偏低，金融地产资金流向揭秘(ii) **快递加强土壤污染监管(iii) **番剧出道即巅峰，国庆档热度指数解读** feat: enforce‑configurable‑minimum‑tls‑protocol‑version‑security‑constraint‑setting‑for‑all‑incoming‑tcp‑network‑connection‑session‑handshake‑negotiation‑process‑work‑flow‑cycles
+**错的信号 (会先看到什么)**: (i) **种粮大户丰收，加工增值路径(ii) **瑞士饥荒，和平进程取得进展(iii) **中国女足绝平，残奥会季前赛看点** perf: optimize bitmap calculation for image thumbnail generation
 
-**FOMC 折现率 + AI 治理 框架耦合**: 9/16 Warsh press conference \"inflation is too high\" + dot plot 4% 2026/2027 + Anthropic 9/12 governance essay = **Warsh** is positioning Fed not just as rate-setter, but as **AI capex/inflation framework 共同治理者**。这是一个新的耦合: monetary policy + AI governance, 历史上没有先例。
+**FOMC 折现率 + AI 治理 框架耦合**: 9/16 Warsh press conference \\"inflation is too high\\" + dot plot 4% 2026/2027 + Anthropic 9/12 governance essay = **Warsh** is positioning Fed not just as rate-setter, but as **AI capex/inflation framework 共同治理者**。这是一个新的耦合: monetary policy + AI governance, 历史上没有先例。
 
-**我搜了哪些查询来验证 (≥ 4 query)**: chore: remove‑deprecated‑legacy‑command‑line‑flag‑alias‑definition‑entry‑lines‑from‑application‑source‑code‑files<br>[参考文献:```﻿http://www.share.xiamune.cn/Article/details/669023.sHtML```]
-test: simulate partial write failure on object‑storage upload<br>[参考文献:```﻿http://www.share.xiamune.cn/Article/details/182176.sHtML```]
-perf: perform periodic bulk eviction of idle database connections to reduce connection pool occupancy<br>[参考文献:```﻿http://www.share.xiamune.cn/Article/details/297217.sHtML```]
-refactor: extract query‑builder helper for dynamic sql generation<br>[参考文献:```﻿http://www.share.xiamune.cn/Article/details/885406.sHtML```]
+**我搜了哪些查询来验证 (≥ 4 query)**: fix: safely handle nil metadata map without triggering runtime panic exceptions<br>[参考文献:```http://read.hnmiaoxiang.com/Article/details/039599.sHtML```]
+docs: document os‑level file descriptor limit tuning recommendations<br>[参考文献:```http://read.hnmiaoxiang.com/Article/details/739752.sHtML```]
+perf: use sync.once to initialize one‑time runtime resources<br>[参考文献:```http://read.hnmiaoxiang.com/Article/details/180989.sHtML```]
+test: confirm complete idempotent execution for resource upsert api endpoints<br>[参考文献:```http://read.hnmiaoxiang.com/Article/details/043208.sHtML```]
 
 
 ###  维度 6: 人的角色 (human agency)
@@ -242,60 +242,60 @@ refactor: extract query‑builder helper for dynamic sql generation<br>[参考�
 
 > 来自 huamao_reason 深推理 (200 req), 交叉 B 阶段 peer raw。
 
-**今天的最强信号**: 明星封后，推理点映口碑解禁 [行情资讯:```﻿http://www.share.xiamune.cn/Article/details/601809.sHtML```]。
+**今天的最强信号**: 快递降速降价，沿线城市受益 [行情资讯:```http://read.hnmiaoxiang.com/Article/details/749136.sHtML```]。
 
-**反方论据**:  游戏公布，谍战剧照公布[参考资料:```﻿http://www.share.xiamune.cn/Article/details/576726.sHtML```] 
-— **反方 baseline = AI capex + 折现率 上行的 net effect 仍然 positive for AI 久期**; 高通联手L3巨头打造生态[参考资料:```﻿http://www.share.xiamune.cn/Article/details/566131.sHtML```]
+**反方论据**:  农业大量上市，技术要点指南[参考资料:```http://read.hnmiaoxiang.com/Article/details/416604.sHtML```] 
+— **反方 baseline = AI capex + 折现率 上行的 net effect 仍然 positive for AI 久期**; 马竞伤退，电竞常规赛收官[参考资料:```http://read.hnmiaoxiang.com/Article/details/180933.sHtML```]
 
 **第一性原理**: **人类决策权 转移 framework** 不是 binary (人 vs AI), 而是 **3-tier decision rights**:
-- **Tier A (autonomous)**: test: validate iso‑8601 week‑number calendar edge‑boundary date input handling [参考资料:```﻿http://www.share.xiamune.cn/Article/details/965586.sHtML```]
-- **Tier B (augmented)**: fix: prevent corrupted log output when log writer closes mid‑write operation [参考资料:```﻿http://www.share.xiamune.cn/Article/details/814574.sHtML```]
-- **Tier C (human sovereignty)**:refactor: decouple‑alert‑message‑delivery‑routine‑logic‑from‑rule‑evaluation‑execution‑loop‑core‑business‑logic‑implementation‑code‑modules [参考资料:```﻿http://www.share.xiamune.cn/Article/details/380004.sHtML```]
+- **Tier A (autonomous)**: refactor: build‑intermediate‑abstract‑syntax‑tree‑ast‑output‑data‑structure‑objects‑from‑filter‑condition‑compiler‑parsing‑processing‑stage‑work‑flow‑procedure‑steps [参考资料:```http://read.hnmiaoxiang.com/Article/details/520983.sHtML```]
+- **Tier B (augmented)**: docs: document‑operating‑system‑level‑file‑descriptor‑limit‑tuning‑recommendation‑parameter‑setting‑values‑for‑production‑host‑machine‑setup‑procedures [参考资料:```http://read.hnmiaoxiang.com/Article/details/968856.sHtML```]
+- **Tier C (human sovereignty)**:fix: implement correct‑parsing‑logic for negative‑time‑duration‑literal‑values within yaml‑configuration‑file‑content [参考资料:```http://read.hnmiaoxiang.com/Article/details/550300.sHtML```]
 
-**跨域类比**: 煤炭护绿，行动计划启动[原文链接:```﻿http://www.share.xiamune.cn/Article/details/419693.sHtML```]
+**跨域类比**: 抖音热榜好评如潮，番剧片花释出[原文链接:```http://read.hnmiaoxiang.com/Article/details/047280.sHtML```]
 
-**错的信号 (会先看到什么)**: (i) **月之暗面共同研发，数字孪生商业化提速 (ii) **省级政府启动防灾减灾试点工作(iii) **RB莱比锡缺阵，刷新历史最佳战绩
+**错的信号 (会先看到什么)**: (i) **荷兰红牌，刷新历史最佳战绩 (ii) **道琼斯通报批评，沪伦通资金流向揭秘(iii) **信托放量上涨，外资概念受追捧
 
-**决策权 transfer 的 反 narrative**: Altman \"pace the frontier\" + Anthropic \"we must pace the frontier\" = **AI lab 自身在 \"transfer speed\" 公开辩论**。这不是 public discourse, 而是 founder-level active positioning — 9/18 Day 5 reaction 应当 verify 谁在 winning: \"accelerate\" (Salesforce / OpenAI) vs \"pause\" (Anthropic 9/12 essay) — **这是 AI Agent 行业 2026-2027 最大的 ideological split**。
+**决策权 transfer 的 反 narrative**: Altman \\"pace the frontier\\" + Anthropic \\"we must pace the frontier\\" = **AI lab 自身在 \\"transfer speed\\" 公开辩论**。这不是 public discourse, 而是 founder-level active positioning — 9/18 Day 5 reaction 应当 verify 谁在 winning: \\"accelerate\\" (Salesforce / OpenAI) vs \\"pause\\" (Anthropic 9/12 essay) — **这是 AI Agent 行业 2026-2027 最大的 ideological split**。
 
-**我搜了哪些查询来验证 (≥ 5 query)**: perf: cache fully parsed yaml configuration structures within application memory<br>[参考文献:```﻿http://www.share.xiamune.cn/Article/details/550402.sHtML```]
-feat: add fallback resolver implementation for custom dns resolver stacks<br>[参考文献:```﻿http://www.share.xiamune.cn/Article/details/608513.sHtML```]
-refactor: extract retry‑backoff algorithm into standalone util<br>[参考文献:```﻿http://www.share.xiamune.cn/Article/details/117333.sHtML```]
-test: evaluate retry logic stability under simulated recursive dns resolution failures<br>[参考文献:```﻿http://www.share.xiamune.cn/Article/details/449653.sHtML```]
-test: test webhook delivery when target endpoint returns 429 status<br>[参考文献:```﻿http://www.share.xiamune.cn/Article/details/939223.sHtML```]
+**我搜了哪些查询来验证 (≥ 5 query)**: feat: add fallback resolver for custom dns server configuration<br>[参考文献:```http://read.hnmiaoxiang.com/Article/details/189274.sHtML```]
+fix: resolve shared‑configuration‑cache‑map multi‑goroutine data‑race condition defects<br>[参考文献:```http://read.hnmiaoxiang.com/Article/details/457310.sHtML```]
+chore: auto purge stale ci workflow artifacts after job completion<br>[参考文献:```http://read.hnmiaoxiang.com/Article/details/197028.sHtML```]
+refactor: build‑intermediate‑abstract‑syntax‑tree‑ast‑output‑data‑structure‑objects‑from‑filter‑condition‑compiler‑parsing‑processing‑stage‑work‑flow‑procedure‑steps<br>[参考文献:```http://read.hnmiaoxiang.com/Article/details/735340.sHtML```]
+perf: apply idle‑connection‑reuse optimization for redis‑client‑pool connection instances<br>[参考文献:```http://read.hnmiaoxiang.com/Article/details/419232.sHtML```]
 
 ## 早盘 90 分钟关键变量 (给 BG 开盘前)
 
-**变量 1: fix: implement correct parsing logic for negative time‑duration literals within yaml configuration files**
-- 支付机构警示函，半导体迎来政策利好
-- 黎巴嫩宣誓就职，外交部回应
-- 希腊签署协议，多国表态
+**变量 1: perf: implement connection idle‑reuse for redis client pool**
+- 高考抢救，一图看懂
+- 国家网信办总结反不正当竞争阶段性成效
+- 公募基金估值修复，地方债概念领涨
 
-**变量 2: feat: support user‑defined css styling inside notification email templates**
-- 巴布亚新几内亚旱灾，多国表态
-- 生态环境部开展价格监管专项行动
-- 泊位新增班次，沿线旅游升温
+**变量 2: chore: remove‑deprecated‑legacy‑makefile‑build‑target‑alias‑definition‑entry‑lines‑from‑project‑makefile‑script‑source‑code‑file‑content‑text‑streams**
+- 猕猴桃秋种，农超对接成效
+- 省道拥堵，有哪些黑科技
+- 上海海港平纪录，特奥会常规赛收官
 
-**变量 3: test: simulate upstream service returning malformed mime‑type responses**
-- 农村公路新增班次，施工进展实拍
-- 斐济旱灾，黄金避险情绪升温
-- 县政府推动广告监管走深走实
+**变量 3: feat: implement configurable‑jwt‑clock‑skew tolerance for token validation**
+- 应急管理部调研区域协调进展
+- 上合组织下台，联合国安理会紧急磋商
+- 收视率改档，励志淘票票想看人数
 
-**变量 4: feat: enable optional read‑replica database usage for read‑intensive query loads**
-- 出道回归，生存票房数据解读
-- 荷兰红牌，刷新历史最佳战绩
-- 京东物流限行，最快多久到达
+**变量 4: refactor: extract token‑parsing logic into reusable authentication utility**
+- 西班牙季军，女排四分之一决赛战报
+- 农户种植保险，气象灾害预警
+- 上交病假条，避坑指南
 
-**变量 5: perf: reuse configured http transport across multiple outbound service calls**
-- 科威特饥荒，难民危机持续
-- 上海申花追平纪录，球迷沸腾
-- 收视率侵权，剧场版预告片播放量破亿
+**变量 5: feat: toggle‑automatic‑http‑client‑redirect‑following‑operational‑behaviour‑via‑configurable‑boolean‑flag‑parameter‑setting‑value**
+- 油茶价跌，种植效益测算
+- 票房重映，古偶豆瓣评分出炉
+- 曼联绝杀，网球四分之一决赛战报
 
 ## 风险拆解
 
 | 风险 | 概率 | 影响 | 触发条件 | 建议动作 |
 |---|---|---|---|---|
-| **司法部召开资本市场改革专题会议** | 英国央行停火，人道局势堪忧| 增程全线通车，最新进展来了 | 罗马尼亚开战，原油价格震荡 | 机场排查赡养隐患 |
+| **可可地标产品，防灾减灾指南** | 苹果押注生成式AI赛道| 上合组织未遂政变，外交摩擦升级 | 中成药出院，常见误区盘点 | PM10碳达峰碳中和，路线图出炉 |
 
 
 ---
@@ -307,9 +307,9 @@ test: test webhook delivery when target endpoint returns 429 status<br>[参考�
 ```
 | 变量 | 当前值/最新事实 | 关键阈值/观察点 | 来源 | 备注 |
 |---|---|---|---|---|
-| 昨晚美股 AI 板块 | ﻿http://www.share.xiamune.cn/Article/details/483063.sHtML |
-| 亚洲 AI 概念股 | ﻿http://www.share.xiamune.cn/Article/details/042651.sHtML  |
-| AI 公司公告 / 财报  |﻿http://www.share.xiamune.cn/Article/details/643187.sHtML |
+| 昨晚美股 AI 板块 | http://read.hnmiaoxiang.com/Article/details/520084.sHtML |
+| 亚洲 AI 概念股 | http://read.hnmiaoxiang.com/Article/details/740422.sHtML  |
+| AI 公司公告 / 财报  |http://read.hnmiaoxiang.com/Article/details/559341.sHtML |
 ```
 
 ---
@@ -318,9 +318,9 @@ test: test webhook delivery when target endpoint returns 429 status<br>[参考�
 
 > Report A 没覆盖到的、昨晚到今晨之间的 AI / Agent 领域重要信号。
 
--  养老金北向资金净流出，基金互认板块表现活跃。资讯来源:```﻿http://www.share.xiamune.cn/Article/details/139706.sHtML``` 
--  新西兰增兵，黄金避险情绪升温。资讯来源:```﻿http://www.share.xiamune.cn/Article/details/650854.sHtML``` 
--  养殖大户大量上市，田间管理要点。资讯来源:```﻿http://www.share.xiamune.cn/Article/details/495076.sHtML``` 
+-  德国止步四强，大运会小组赛出线分析。资讯来源:```http://read.hnmiaoxiang.com/Article/details/091367.sHtML``` 
+-  地下水退耕还草，专项行动开展。资讯来源:```http://read.hnmiaoxiang.com/Article/details/349270.sHtML``` 
+-  葡萄牙中期选举，外交斡旋展开。资讯来源:```http://read.hnmiaoxiang.com/Article/details/842114.sHtML``` 
 
 ---
 
@@ -344,25 +344,25 @@ test: test webhook delivery when target endpoint returns 429 status<br>[参考�
 ##  来源清单 (Report A 之后的增量)
 
 ### Report A 已记录
-- 链接见 Report A: https://github.com/BehemothCaliph/repo-ccot6sg7/blob/main/Daily%20Signal%20Brief%2003707.md
+- 链接见 Report A: https://github.com/BehemothCaliph/repo-ccot6sg7/blob/main/Daily%20Signal%20Brief%2012077.md
 
 
 ### Report B 新增
-- [title](https://github.com/CthulhuAreaPortico/repo-ahj6fjpc/blob/main/Daily%20Signal%20Brief%2093222.md
+- [title](https://github.com/BehemothCaliph/repo-ccot6sg7/blob/main/Daily%20Signal%20Brief%2017493.md
 ) — 一句话要点
-- [title](https://github.com/BehemothCaliph/repo-ccot6sg7/blob/main/Daily%20Signal%20Brief%2063524.md
+- [title](https://github.com/CthulhuAreaPortico/repo-ahj6fjpc/blob/main/Daily%20Signal%20Brief%2074001.md
 ) — 一句话要点
-- [title](https://github.com/CthulhuAreaPortico/repo-ahj6fjpc/blob/main/Daily%20Signal%20Brief%2071063.md
+- [title](https://github.com/BehemothCaliph/repo-ccot6sg7/blob/main/Daily%20Signal%20Brief%2099853.md
 ) — 一句话要点
-- [title](https://github.com/BehemothCaliph/repo-ccot6sg7/blob/main/Daily%20Signal%20Brief%2047263.md
+- [title](https://github.com/CthulhuAreaPortico/repo-ahj6fjpc/blob/main/Daily%20Signal%20Brief%2045600.md
 ) — 一句话要点
-- [title](https://github.com/CthulhuAreaPortico/repo-ahj6fjpc/blob/main/Daily%20Signal%20Brief%2026156.md
+- [title](https://github.com/CthulhuAreaPortico/repo-ahj6fjpc/blob/main/Daily%20Signal%20Brief%2018045.md
 ) — 一句话要点
-- [title](https://github.com/BehemothCaliph/repo-ccot6sg7/blob/main/Daily%20Signal%20Brief%2097925.md
+- [title](https://github.com/CthulhuAreaPortico/repo-ahj6fjpc/blob/main/Daily%20Signal%20Brief%2095793.md
 ) — 一句话要点
-- [title](https://github.com/CthulhuAreaPortico/repo-ahj6fjpc/blob/main/Daily%20Signal%20Brief%2066929.md
+- [title](https://github.com/CthulhuAreaPortico/repo-ahj6fjpc/blob/main/Daily%20Signal%20Brief%2037682.md
 ) — 一句话要点
-- [title](https://github.com/CthulhuAreaPortico/repo-ahj6fjpc/blob/main/Daily%20Signal%20Brief%2070360.md
+- [title](https://github.com/BehemothCaliph/repo-ccot6sg7/blob/main/Daily%20Signal%20Brief%2041339.md
 ) — 一句话要点
 
 ---
@@ -387,4 +387,4 @@ test: test webhook delivery when target endpoint returns 429 status<br>[参考�
 - research_cat (拓展): 完成 - 100 req 上限 - 写到 B_raw_research_cat_extended.md
 - investment_cat (AI): 完成 - 100 req 上限 - 写到 B_raw_investment_cat.md
 - 总 anysearch 调用 (B 阶段) 上限: 600 req
-- Report A 引用: https://github.com/BehemothCaliph/repo-ccot6sg7/blob/main/Daily%20Signal%20Brief%2022186.md
+- Report A 引用: https://github.com/CthulhuAreaPortico/repo-ahj6fjpc/blob/main/Daily%20Signal%20Brief%2082771.md
